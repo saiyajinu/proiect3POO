@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1652982048 source:c:\users\adi\desktop\projects\proiect3\main.cpp
+	<iostream>
+	<string.h>
+	<exception>
+	<stdexcept>
+	<list>
+	<iterator>
+	<ios>
+	<limits>
+
